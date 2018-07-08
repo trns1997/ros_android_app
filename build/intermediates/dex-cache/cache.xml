@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/dank-engine/android_core/android_10/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="59f598cd216c8e4bd5ce23cd4e5d6e5655b6f55b">
+        <dex dex="/home/dank-engine/android_core/android_benchmarks/build/intermediates/pre-dexed/debug/classes_1e94305aafb493ece419f49506888de0e2196b9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dank-engine/android_core/android_15/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26bf43749fdbad814e74713bb2df27bda228627d">
+        <dex dex="/home/dank-engine/android_core/android_tutorial_map_viewer/build/intermediates/pre-dexed/debug/classes_95f31585d2ebc0e70170811d0a4d2ad0c9b50061.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/dank-engine/android_core/android_acm_serial/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/dank-engine/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/66229fd3e5e960202480585712181264/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/dank-engine/android_core/android_acm_serial/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/dank-engine/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/66229fd3e5e960202480585712181264/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/dank-engine/android_core/android_acm_serial/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/home/dank-engine/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/66229fd3e5e960202480585712181264/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/dank-engine/android_core/android_acm_serial/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/dank-engine/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/66229fd3e5e960202480585712181264/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/dank-engine/android_core/android_acm_serial/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/dank-engine/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/66229fd3e5e960202480585712181264/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/dank-engine/android_core/android_acm_serial/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/dank-engine/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/66229fd3e5e960202480585712181264/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/dank-engine/android_core/android_acm_serial/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/home/dank-engine/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/66229fd3e5e960202480585712181264/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/dank-engine/android_core/android_acm_serial/build/intermediates/res/merged/release/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/dank-engine/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/66229fd3e5e960202480585712181264/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/dank-engine/android_core/android_acm_serial/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/home/dank-engine/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/66229fd3e5e960202480585712181264/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/dank-engine/android_core/android_acm_serial/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/dank-engine/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/66229fd3e5e960202480585712181264/res/color-v23/abc_tint_switch_track.xml"
+    }
+]

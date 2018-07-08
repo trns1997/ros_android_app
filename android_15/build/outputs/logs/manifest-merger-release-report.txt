@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dank-engine/android_core/android_15/AndroidManifest.xml:2:1-49
+INJECTED from /home/dank-engine/android_core/android_15/AndroidManifest.xml:2:1-49
+INJECTED from /home/dank-engine/android_core/android_15/AndroidManifest.xml:2:1-49
+INJECTED from /home/dank-engine/android_core/android_15/AndroidManifest.xml:2:1-49
+INJECTED from /home/dank-engine/android_core/android_15/AndroidManifest.xml:2:1-49
+INJECTED from /home/dank-engine/android_core/android_15/AndroidManifest.xml:2:1-49
+INJECTED from /home/dank-engine/android_core/android_15/AndroidManifest.xml:2:1-49
+	package
+		ADDED from /home/dank-engine/android_core/android_15/AndroidManifest.xml:2:11-47
+		INJECTED from /home/dank-engine/android_core/android_15/AndroidManifest.xml
+		INJECTED from /home/dank-engine/android_core/android_15/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dank-engine/android_core/android_15/AndroidManifest.xml
+		ADDED from /home/dank-engine/android_core/android_15/AndroidManifest.xml:2:1-49
+		INJECTED from /home/dank-engine/android_core/android_15/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dank-engine/android_core/android_15/AndroidManifest.xml:2:1-49
+	android:versionCode
+		INJECTED from /home/dank-engine/android_core/android_15/AndroidManifest.xml
+		ADDED from /home/dank-engine/android_core/android_15/AndroidManifest.xml:2:1-49
+		INJECTED from /home/dank-engine/android_core/android_15/AndroidManifest.xml
+uses-sdk
+INJECTED from /home/dank-engine/android_core/android_15/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dank-engine/android_core/android_15/AndroidManifest.xml
+INJECTED from /home/dank-engine/android_core/android_15/AndroidManifest.xml
+INJECTED from /home/dank-engine/android_core/android_15/AndroidManifest.xml
+INJECTED from /home/dank-engine/android_core/android_15/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/dank-engine/android_core/android_15/AndroidManifest.xml
+		ADDED from /home/dank-engine/android_core/android_15/AndroidManifest.xml
+		INJECTED from /home/dank-engine/android_core/android_15/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dank-engine/android_core/android_15/AndroidManifest.xml
+		ADDED from /home/dank-engine/android_core/android_15/AndroidManifest.xml
+		INJECTED from /home/dank-engine/android_core/android_15/AndroidManifest.xml

@@ -1,0 +1,4 @@
+#Sun Jul 08 08:07:32 IST 2018
+base.0=/home/dank-engine/android_core/android_tutorial_pubsub/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

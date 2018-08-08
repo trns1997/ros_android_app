@@ -1,4 +1,0 @@
-#Sun Jul 08 15:04:35 IST 2018
-base.0=/home/dank-engine/ros_android_app/android_tutorial_map_viewer/build/intermediates/transforms/dexMerger/debug/38
-path.0=classes.dex
-renamed.0=classes.dex

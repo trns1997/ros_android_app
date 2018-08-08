@@ -5,21 +5,21 @@ INJECTED from /home/dank-engine/ros_android_app/android_tutorial_map_viewer/Andr
 INJECTED from /home/dank-engine/ros_android_app/android_tutorial_map_viewer/AndroidManifest.xml:2:1-31:12
 INJECTED from /home/dank-engine/ros_android_app/android_tutorial_map_viewer/AndroidManifest.xml:2:1-31:12
 MERGED from [:android_15] /home/dank-engine/ros_android_app/android_15/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.github.mirrajabi:search-dialog:1.2.2] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/search-dialog-1.2.2.aar/064a2c3b17d8e23ddcdc9e1356fe4580/AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.mirrajabi:search-dialog:1.2.2] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/search-dialog-1.2.2.aar/3a6b699ee5430ff454c9e2960b370540/AndroidManifest.xml:2:1-17:12
 MERGED from [:android_10] /home/dank-engine/ros_android_app/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-36:12
-MERGED from [com.android.support:appcompat-v7:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/66229fd3e5e960202480585712181264/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:cardview-v7:23.4.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/0d7a9a18b2f9a45665491c9a8fdf2ada/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:recyclerview-v7:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.0.aar/c74a2eca37bf31884bd7c5a4a08fe682/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/0e3aef3c348dd974c535411486b4502b/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-fragment:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/43b59fc8628c933545c007af36652c61/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-ui:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/b2cd98bd8d6491b4e5f652336ca2d817/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-media-compat:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/ccd1d3b798bf0a613eac3438befd6953/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-utils:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/a9d586ef0d2855099d464987a9f7500a/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/a6414648575f1d4f9c2df66088840c8f/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/e884c2b25810ac93ace365800203b7cf/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:support-compat:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/dc2f7a3acb9bdfba5c5e1c3b15e501ff/AndroidManifest.xml:17:1-27:12
-MERGED from [com.github.mirrajabi:okhttp-json-mock:1.1.1] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/okhttp-json-mock-1.1.1.aar/fcd4f128043e468fd91c1e4549c4620c/AndroidManifest.xml:2:1-17:12
-MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/955c9088ee29ae04ae5065fa73ec8103/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/324abc4aeb5a852d68c265ad82656186/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:cardview-v7:23.4.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/d231defeed4abfb7728fbf1b97efb66d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.0.aar/6dfe1571dc0171ab3e9a1048318ba63b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/feb7f2eee73e7bc5f04199f521c6713a/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/c3f887c88b11458b06cae2ee9cd0f28f/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/1fbc253c062b198a1af845acdb42d04c/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/fb01e2f93bfad5280dcb5231b85532f4/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/20a30d6c7904ee5822a0cd68dab6d671/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/5004b7f0ff29335ca7a810e97bdf3aef/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/12735116f62600c13f18481d9e35bd1a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-compat:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/c19fd9928b3754e57f7c50c276c5dac3/AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.mirrajabi:okhttp-json-mock:1.1.1] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/okhttp-json-mock-1.1.1.aar/473efa937ff0da74f8cd5251cbdf2a74/AndroidManifest.xml:2:1-17:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/b5c20e0b1d28dd12eaf6eceafc916e79/AndroidManifest.xml:2:1-11:12
 INJECTED from /home/dank-engine/ros_android_app/android_tutorial_map_viewer/AndroidManifest.xml:2:1-31:12
 INJECTED from /home/dank-engine/ros_android_app/android_tutorial_map_viewer/AndroidManifest.xml:2:1-31:12
 INJECTED from /home/dank-engine/ros_android_app/android_tutorial_map_viewer/AndroidManifest.xml:2:1-31:12
@@ -49,36 +49,36 @@ MERGED from [:android_10] /home/dank-engine/ros_android_app/android_10/build/int
 		ADDED from /home/dank-engine/ros_android_app/android_tutorial_map_viewer/AndroidManifest.xml:5:22-65
 application
 ADDED from /home/dank-engine/ros_android_app/android_tutorial_map_viewer/AndroidManifest.xml:7:5-29:19
-MERGED from [com.github.mirrajabi:search-dialog:1.2.2] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/search-dialog-1.2.2.aar/064a2c3b17d8e23ddcdc9e1356fe4580/AndroidManifest.xml:11:5-15:19
-MERGED from [com.github.mirrajabi:search-dialog:1.2.2] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/search-dialog-1.2.2.aar/064a2c3b17d8e23ddcdc9e1356fe4580/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.mirrajabi:search-dialog:1.2.2] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/search-dialog-1.2.2.aar/3a6b699ee5430ff454c9e2960b370540/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.mirrajabi:search-dialog:1.2.2] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/search-dialog-1.2.2.aar/3a6b699ee5430ff454c9e2960b370540/AndroidManifest.xml:11:5-15:19
 MERGED from [:android_10] /home/dank-engine/ros_android_app/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:5-34:19
 MERGED from [:android_10] /home/dank-engine/ros_android_app/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:5-34:19
-MERGED from [com.android.support:appcompat-v7:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/66229fd3e5e960202480585712181264/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/66229fd3e5e960202480585712181264/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:cardview-v7:23.4.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/0d7a9a18b2f9a45665491c9a8fdf2ada/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:cardview-v7:23.4.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/0d7a9a18b2f9a45665491c9a8fdf2ada/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/0e3aef3c348dd974c535411486b4502b/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/0e3aef3c348dd974c535411486b4502b/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/43b59fc8628c933545c007af36652c61/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/43b59fc8628c933545c007af36652c61/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/b2cd98bd8d6491b4e5f652336ca2d817/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/b2cd98bd8d6491b4e5f652336ca2d817/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/ccd1d3b798bf0a613eac3438befd6953/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/ccd1d3b798bf0a613eac3438befd6953/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/a9d586ef0d2855099d464987a9f7500a/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/a9d586ef0d2855099d464987a9f7500a/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/a6414648575f1d4f9c2df66088840c8f/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/a6414648575f1d4f9c2df66088840c8f/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/e884c2b25810ac93ace365800203b7cf/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/e884c2b25810ac93ace365800203b7cf/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/dc2f7a3acb9bdfba5c5e1c3b15e501ff/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/dc2f7a3acb9bdfba5c5e1c3b15e501ff/AndroidManifest.xml:25:5-20
-MERGED from [com.github.mirrajabi:okhttp-json-mock:1.1.1] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/okhttp-json-mock-1.1.1.aar/fcd4f128043e468fd91c1e4549c4620c/AndroidManifest.xml:11:5-15:19
-MERGED from [com.github.mirrajabi:okhttp-json-mock:1.1.1] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/okhttp-json-mock-1.1.1.aar/fcd4f128043e468fd91c1e4549c4620c/AndroidManifest.xml:11:5-15:19
-MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/955c9088ee29ae04ae5065fa73ec8103/AndroidManifest.xml:9:5-20
-MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/955c9088ee29ae04ae5065fa73ec8103/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/324abc4aeb5a852d68c265ad82656186/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/324abc4aeb5a852d68c265ad82656186/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/d231defeed4abfb7728fbf1b97efb66d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/d231defeed4abfb7728fbf1b97efb66d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/feb7f2eee73e7bc5f04199f521c6713a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/feb7f2eee73e7bc5f04199f521c6713a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/c3f887c88b11458b06cae2ee9cd0f28f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/c3f887c88b11458b06cae2ee9cd0f28f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/1fbc253c062b198a1af845acdb42d04c/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/1fbc253c062b198a1af845acdb42d04c/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/fb01e2f93bfad5280dcb5231b85532f4/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/fb01e2f93bfad5280dcb5231b85532f4/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/20a30d6c7904ee5822a0cd68dab6d671/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/20a30d6c7904ee5822a0cd68dab6d671/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/5004b7f0ff29335ca7a810e97bdf3aef/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/5004b7f0ff29335ca7a810e97bdf3aef/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/12735116f62600c13f18481d9e35bd1a/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/12735116f62600c13f18481d9e35bd1a/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/c19fd9928b3754e57f7c50c276c5dac3/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/c19fd9928b3754e57f7c50c276c5dac3/AndroidManifest.xml:25:5-20
+MERGED from [com.github.mirrajabi:okhttp-json-mock:1.1.1] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/okhttp-json-mock-1.1.1.aar/473efa937ff0da74f8cd5251cbdf2a74/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.mirrajabi:okhttp-json-mock:1.1.1] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/okhttp-json-mock-1.1.1.aar/473efa937ff0da74f8cd5251cbdf2a74/AndroidManifest.xml:11:5-15:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/b5c20e0b1d28dd12eaf6eceafc916e79/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/b5c20e0b1d28dd12eaf6eceafc916e79/AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from [com.github.mirrajabi:search-dialog:1.2.2] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/search-dialog-1.2.2.aar/064a2c3b17d8e23ddcdc9e1356fe4580/AndroidManifest.xml:14:9-35
+		ADDED from [com.github.mirrajabi:search-dialog:1.2.2] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/search-dialog-1.2.2.aar/3a6b699ee5430ff454c9e2960b370540/AndroidManifest.xml:14:9-35
 	android:label
 		ADDED from /home/dank-engine/ros_android_app/android_tutorial_map_viewer/AndroidManifest.xml:9:9-41
 	android:icon
@@ -137,40 +137,40 @@ INJECTED from /home/dank-engine/ros_android_app/android_tutorial_map_viewer/Andr
 INJECTED from /home/dank-engine/ros_android_app/android_tutorial_map_viewer/AndroidManifest.xml
 MERGED from [:android_15] /home/dank-engine/ros_android_app/android_15/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:android_15] /home/dank-engine/ros_android_app/android_15/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.mirrajabi:search-dialog:1.2.2] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/search-dialog-1.2.2.aar/064a2c3b17d8e23ddcdc9e1356fe4580/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.mirrajabi:search-dialog:1.2.2] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/search-dialog-1.2.2.aar/064a2c3b17d8e23ddcdc9e1356fe4580/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mirrajabi:search-dialog:1.2.2] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/search-dialog-1.2.2.aar/3a6b699ee5430ff454c9e2960b370540/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mirrajabi:search-dialog:1.2.2] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/search-dialog-1.2.2.aar/3a6b699ee5430ff454c9e2960b370540/AndroidManifest.xml:7:5-9:41
 MERGED from [:android_10] /home/dank-engine/ros_android_app/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-10:41
 MERGED from [:android_10] /home/dank-engine/ros_android_app/android_10/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:appcompat-v7:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/66229fd3e5e960202480585712181264/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/66229fd3e5e960202480585712181264/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:cardview-v7:23.4.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/0d7a9a18b2f9a45665491c9a8fdf2ada/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:23.4.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/0d7a9a18b2f9a45665491c9a8fdf2ada/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.0.aar/c74a2eca37bf31884bd7c5a4a08fe682/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.0.aar/c74a2eca37bf31884bd7c5a4a08fe682/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/0e3aef3c348dd974c535411486b4502b/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/0e3aef3c348dd974c535411486b4502b/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/43b59fc8628c933545c007af36652c61/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/43b59fc8628c933545c007af36652c61/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/b2cd98bd8d6491b4e5f652336ca2d817/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/b2cd98bd8d6491b4e5f652336ca2d817/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/ccd1d3b798bf0a613eac3438befd6953/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/ccd1d3b798bf0a613eac3438befd6953/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/a9d586ef0d2855099d464987a9f7500a/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/a9d586ef0d2855099d464987a9f7500a/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/a6414648575f1d4f9c2df66088840c8f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/a6414648575f1d4f9c2df66088840c8f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/e884c2b25810ac93ace365800203b7cf/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/e884c2b25810ac93ace365800203b7cf/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/dc2f7a3acb9bdfba5c5e1c3b15e501ff/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/dc2f7a3acb9bdfba5c5e1c3b15e501ff/AndroidManifest.xml:21:5-23:58
-MERGED from [com.github.mirrajabi:okhttp-json-mock:1.1.1] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/okhttp-json-mock-1.1.1.aar/fcd4f128043e468fd91c1e4549c4620c/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.mirrajabi:okhttp-json-mock:1.1.1] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/okhttp-json-mock-1.1.1.aar/fcd4f128043e468fd91c1e4549c4620c/AndroidManifest.xml:7:5-9:41
-MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/955c9088ee29ae04ae5065fa73ec8103/AndroidManifest.xml:5:5-7:41
-MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/955c9088ee29ae04ae5065fa73ec8103/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/324abc4aeb5a852d68c265ad82656186/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/324abc4aeb5a852d68c265ad82656186/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:cardview-v7:23.4.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/d231defeed4abfb7728fbf1b97efb66d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.4.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/d231defeed4abfb7728fbf1b97efb66d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.0.aar/6dfe1571dc0171ab3e9a1048318ba63b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.0.aar/6dfe1571dc0171ab3e9a1048318ba63b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/feb7f2eee73e7bc5f04199f521c6713a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/feb7f2eee73e7bc5f04199f521c6713a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/c3f887c88b11458b06cae2ee9cd0f28f/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/c3f887c88b11458b06cae2ee9cd0f28f/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/1fbc253c062b198a1af845acdb42d04c/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/1fbc253c062b198a1af845acdb42d04c/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/fb01e2f93bfad5280dcb5231b85532f4/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/fb01e2f93bfad5280dcb5231b85532f4/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/20a30d6c7904ee5822a0cd68dab6d671/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/20a30d6c7904ee5822a0cd68dab6d671/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/5004b7f0ff29335ca7a810e97bdf3aef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/5004b7f0ff29335ca7a810e97bdf3aef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/12735116f62600c13f18481d9e35bd1a/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/12735116f62600c13f18481d9e35bd1a/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/c19fd9928b3754e57f7c50c276c5dac3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/c19fd9928b3754e57f7c50c276c5dac3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.github.mirrajabi:okhttp-json-mock:1.1.1] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/okhttp-json-mock-1.1.1.aar/473efa937ff0da74f8cd5251cbdf2a74/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mirrajabi:okhttp-json-mock:1.1.1] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/okhttp-json-mock-1.1.1.aar/473efa937ff0da74f8cd5251cbdf2a74/AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/b5c20e0b1d28dd12eaf6eceafc916e79/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/b5c20e0b1d28dd12eaf6eceafc916e79/AndroidManifest.xml:5:5-7:41
 INJECTED from /home/dank-engine/ros_android_app/android_tutorial_map_viewer/AndroidManifest.xml
 INJECTED from /home/dank-engine/ros_android_app/android_tutorial_map_viewer/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/66229fd3e5e960202480585712181264/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.1.0] /home/dank-engine/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/324abc4aeb5a852d68c265ad82656186/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /home/dank-engine/ros_android_app/android_tutorial_map_viewer/AndroidManifest.xml
 		ADDED from /home/dank-engine/ros_android_app/android_tutorial_map_viewer/AndroidManifest.xml

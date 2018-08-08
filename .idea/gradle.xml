@@ -10,14 +10,8 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/android_10" />
             <option value="$PROJECT_DIR$/android_15" />
-            <option value="$PROJECT_DIR$/android_acm_serial" />
-            <option value="$PROJECT_DIR$/android_benchmarks" />
-            <option value="$PROJECT_DIR$/android_tutorial_camera" />
-            <option value="$PROJECT_DIR$/android_tutorial_image_transport" />
             <option value="$PROJECT_DIR$/android_tutorial_map_viewer" />
             <option value="$PROJECT_DIR$/android_tutorial_pubsub" />
-            <option value="$PROJECT_DIR$/android_tutorial_teleop" />
-            <option value="$PROJECT_DIR$/docs" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

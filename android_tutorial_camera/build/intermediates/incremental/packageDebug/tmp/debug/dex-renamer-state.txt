@@ -1,4 +1,0 @@
-#Fri Jul 06 14:48:11 IST 2018
-base.0=/home/dank-engine/android_core/android_tutorial_camera/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex

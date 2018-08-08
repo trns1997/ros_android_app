@@ -20,12 +20,21 @@
             android:textAllCaps="false" />
 
         <Button
-            android:id="@+id/button3"
+            android:id="@+id/call"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:text="Come to me"
             android:textAllCaps="false" />
     </LinearLayout>
+
+    <TextView
+        android:id="@+id/location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="110dp"
+        android:text="TextView" />
 
 </RelativeLayout>

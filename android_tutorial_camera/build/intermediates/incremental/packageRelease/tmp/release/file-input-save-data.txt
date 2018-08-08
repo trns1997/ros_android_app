@@ -1,7 +1,0 @@
-#Internal package file, do not edit.
-#Fri Jul 06 14:48:25 IST 2018
-0.baseType=DIRECTORY
-0.base=/home/dank-engine/android_core/android_tutorial_camera/build/intermediates/transforms/dexMerger/release/0
-0.path=classes.dex
-0.set=DEX
-count=1

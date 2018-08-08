@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Sun Jul 08 15:05:51 IST 2018
+#Wed Aug 08 11:17:43 IST 2018
 0.baseType=DIRECTORY
-0.base=/home/dank-engine/ros_android_app/android_tutorial_map_viewer/build/intermediates/transforms/dexMerger/debug/55
+0.base=/home/dank-engine/ros_android_app/android_tutorial_map_viewer/build/intermediates/transforms/dexMerger/debug/0
 0.path=classes.dex
 0.set=DEX
 count=1

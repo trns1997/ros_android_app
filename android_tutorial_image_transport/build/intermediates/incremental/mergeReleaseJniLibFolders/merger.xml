@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/dank-engine/android_core/android_tutorial_image_transport/src/main/jniLibs"/></dataSet><dataSet config="release"><source path="/home/dank-engine/android_core/android_tutorial_image_transport/src/release/jniLibs"/></dataSet></merger>

@@ -240,12 +240,12 @@ public class MainActivity extends RosActivity {
                           PoseStamped second = publisher.newMessage();
                           second.getHeader().setFrameId("map");
                           second.getHeader().setStamp(Time.fromMillis(System.currentTimeMillis()));
-                          second.getPose().getOrientation().setW(0.102068293041);
+                          second.getPose().getOrientation().setW(0.530036454007);//0.102068293041);
                           second.getPose().getOrientation().setX(0);
                           second.getPose().getOrientation().setY(0);
-                          second.getPose().getOrientation().setZ(0.994777393971);
-                          second.getPose().getPosition().setX(-1.03944051266);
-                          second.getPose().getPosition().setY(2.54983639717);
+                          second.getPose().getOrientation().setZ(-0.847974856599);//0.994777393971);
+                          second.getPose().getPosition().setX(1.08480489254);//-1.03944051266
+                          second.getPose().getPosition().setY(2.35004806519);//2.54983639717
                           second.getPose().getPosition().setZ(0);
                           publisher.publish(second);
                           break;
@@ -255,12 +255,12 @@ public class MainActivity extends RosActivity {
                           PoseStamped third = publisher.newMessage();
                           third.getHeader().setFrameId("map");
                           third.getHeader().setStamp(Time.fromMillis(System.currentTimeMillis()));
-                          third.getPose().getOrientation().setW(0.935369518692);
+                          third.getPose().getOrientation().setW(0.98022498029);//0.935369518692);
                           third.getPose().getOrientation().setX(0);
                           third.getPose().getOrientation().setY(0);
-                          third.getPose().getOrientation().setZ(-0.353671971609);
-                          third.getPose().getPosition().setX(-8.87926959991);
-                          third.getPose().getPosition().setY(3.08588671684);
+                          third.getPose().getOrientation().setZ(-0.197886300728);//-0.353671971609);
+                          third.getPose().getPosition().setX(-0.701504588127);//-8.87926959991);
+                          third.getPose().getPosition().setY(2.64645671844);//3.08588671684);
                           third.getPose().getPosition().setZ(0);
                           publisher.publish(third);
                           break;
@@ -270,12 +270,12 @@ public class MainActivity extends RosActivity {
                           PoseStamped fourth = publisher.newMessage();
                           fourth.getHeader().setFrameId("map");
                           fourth.getHeader().setStamp(Time.fromMillis(System.currentTimeMillis()));
-                          fourth.getPose().getOrientation().setW(-0.146961731995);
+                          fourth.getPose().getOrientation().setW(0.633664274789);//-0.146961731995);
                           fourth.getPose().getOrientation().setX(0);
                           fourth.getPose().getOrientation().setY(0);
-                          fourth.getPose().getOrientation().setZ(0.989142178521);
-                          fourth.getPose().getPosition().setX(-1.84649252892);
-                          fourth.getPose().getPosition().setY(-1.1724768877);
+                          fourth.getPose().getOrientation().setZ(-0.773608161058);//0.989142178521);
+                          fourth.getPose().getPosition().setX(-0.339089989662);//-1.84649252892);
+                          fourth.getPose().getPosition().setY(5.05151462555);//-1.1724768877);
                           fourth.getPose().getPosition().setZ(0);
                           publisher.publish(fourth);
                           break;
@@ -285,12 +285,12 @@ public class MainActivity extends RosActivity {
                           PoseStamped fifth = publisher.newMessage();
                           fifth.getHeader().setFrameId("map");
                           fifth.getHeader().setStamp(Time.fromMillis(System.currentTimeMillis()));
-                          fifth.getPose().getOrientation().setW(0.998230198425);
+                          fifth.getPose().getOrientation().setW(0.834614741906);//0.998230198425);
                           fifth.getPose().getOrientation().setX(0);
                           fifth.getPose().getOrientation().setY(0);
-                          fifth.getPose().getOrientation().setZ(-0.05946823482);
-                          fifth.getPose().getPosition().setX(-9.52041339874);
-                          fifth.getPose().getPosition().setY(-0.241153270006);
+                          fifth.getPose().getOrientation().setZ(0.550834124391);//-0.05946823482);
+                          fifth.getPose().getPosition().setX(-0.374120593071);//-9.52041339874);
+                          fifth.getPose().getPosition().setY(1.05043375492);//-0.241153270006);
                           fifth.getPose().getPosition().setZ(0);
                           publisher.publish(fifth);
                           break;

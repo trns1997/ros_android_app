@@ -78,16 +78,16 @@ public class MainActivity extends RosActivity {
     HashMap<String, Integer> rp12 = new HashMap<>();
 
     List<String> rp0_bssids = Arrays.asList("f4:0f:1b:97:e1:30", "f4:0f:1b:97:fd:30");
-    List<Integer> rp0_rssi = Arrays.asList(-51, -63);
+    List<Integer> rp0_rssi = Arrays.asList(-41, -65);
 
-    List<String> rp1_bssids = Arrays.asList("18:64:72:22:6b:61", "18:64:72:22:6c:e1", "18:64:72:22:24:c1", "18:64:72:22:68:81", "18:64:72:22:c1:21", "18:64:72:22:b6:81", "18:64:72:22:4f:c1", "18:64:72:22:6b:81");
-    List<Integer> rp1_rssi = Arrays.asList(-49, -50, -58, -57, -61, -59, -60, -64);
+    List<String> rp1_bssids = Arrays.asList("f4:0f:1b:97:e1:30", "f4:0f:1b:93:a4:30");
+    List<Integer> rp1_rssi = Arrays.asList(-51, -64);
 
-    List<String> rp2_bssids = Arrays.asList("18:64:72:22:6b:61", "18:64:72:22:6c:e1", "18:64:72:22:24:c1", "18:64:72:22:c1:21", "18:64:72:22:6b:81", "18:64:72:22:c2:41", "18:64:72:22:68:81");
-    List<Integer> rp2_rssi = Arrays.asList(-53, -55, -53, -57, -61, -60, -53);
+    List<String> rp2_bssids = Arrays.asList("f4:0f:1b:97:e1:30");
+    List<Integer> rp2_rssi = Arrays.asList(-49);
 
-    List<String> rp3_bssids = Arrays.asList("18:64:72:22:c1:21", "18:64:72:22:68:81", "18:64:72:22:6b:61", "18:64:72:22:c2:41", "18:64:72:22:24:c1", "18:64:72:22:6c:e1", "18:64:72:22:6b:81", "18:64:72:22:aa:01");
-    List<Integer> rp3_rssi = Arrays.asList(-53, -41, -56, -60, -57, -61, -64, -65);
+    List<String> rp3_bssids = Arrays.asList("f4:0f:1b:97:e1:30");
+    List<Integer> rp3_rssi = Arrays.asList(-55);
 
     List<String> rp4_bssids = Arrays.asList("00:25:84:86:7b:90", "00:25:84:23:1d:90");
     List<Integer> rp4_rssi = Arrays.asList(-44, -55);
@@ -97,7 +97,6 @@ public class MainActivity extends RosActivity {
 
     List<String> rp6_bssids = Arrays.asList();
     List<Integer> rp6_rssi = Arrays.asList();
-
     List<String> rp7_bssids = Arrays.asList();
     List<Integer> rp7_rssi = Arrays.asList();
 
@@ -264,32 +263,75 @@ public class MainActivity extends RosActivity {
                     Log.i("check", String.valueOf(index));
                     switch (index) {
                         case 0:
-                            PoseStamped third = publisher.newMessage();
-                            third.getHeader().setFrameId("map");
-                            third.getHeader().setStamp(Time.fromMillis(System.currentTimeMillis()));
-                            third.getPose().getOrientation().setW(0.125697062089);
-                            third.getPose().getOrientation().setX(0);
-                            third.getPose().getOrientation().setY(0);
-                            third.getPose().getOrientation().setZ(0.992068671304);
-                            third.getPose().getPosition().setX(-1.34180116653);
-                            third.getPose().getPosition().setY(2.47653889656);
-                            third.getPose().getPosition().setZ(0);
-                            publisher.publish(third);
+                            PoseStamped pose = publisher.newMessage();
+                            pose.getHeader().setFrameId("map");
+                            pose.getHeader().setStamp(Time.fromMillis(System.currentTimeMillis()));
+                            pose.getPose().getOrientation().setW(0.995961922189);
+                            pose.getPose().getOrientation().setX(0);
+                            pose.getPose().getOrientation().setY(0);
+                            pose.getPose().getOrientation().setZ(-0.0897766648385);
+                            pose.getPose().getPosition().setX(-2.56363534927);
+                            pose.getPose().getPosition().setY(-0.179672002792);
+                            pose.getPose().getPosition().setZ(0);
+                            publisher.publish(pose);
                             break;
 
                         case 1:
                             PoseStamped second = publisher.newMessage();
                             second.getHeader().setFrameId("map");
                             second.getHeader().setStamp(Time.fromMillis(System.currentTimeMillis()));
-                            second.getPose().getOrientation().setW(0.994343749711);
+                            second.getPose().getOrientation().setW(0.102068293041);
                             second.getPose().getOrientation().setX(0);
                             second.getPose().getOrientation().setY(0);
-                            second.getPose().getOrientation().setZ(-0.106209733121);
-                            second.getPose().getPosition().setX(-9.19212150574);
-                            second.getPose().getPosition().setY(-0.389170885086);
+                            second.getPose().getOrientation().setZ(0.994777393971);
+                            second.getPose().getPosition().setX(-1.03944051266);
+                            second.getPose().getPosition().setY(2.54983639717);
                             second.getPose().getPosition().setZ(0);
                             publisher.publish(second);
                             break;
+
+                        case 2:
+                            PoseStamped third = publisher.newMessage();
+                            third.getHeader().setFrameId("map");
+                            third.getHeader().setStamp(Time.fromMillis(System.currentTimeMillis()));
+                            third.getPose().getOrientation().setW(0.935369518692);
+                            third.getPose().getOrientation().setX(0);
+                            third.getPose().getOrientation().setY(0);
+                            third.getPose().getOrientation().setZ(-0.353671971609);
+                            third.getPose().getPosition().setX(-8.87926959991);
+                            third.getPose().getPosition().setY(3.08588671684);
+                            third.getPose().getPosition().setZ(0);
+                            publisher.publish(third);
+                            break;
+
+                        case 3:
+                            PoseStamped fourth = publisher.newMessage();
+                            fourth.getHeader().setFrameId("map");
+                            fourth.getHeader().setStamp(Time.fromMillis(System.currentTimeMillis()));
+                            fourth.getPose().getOrientation().setW(-0.146961731995);
+                            fourth.getPose().getOrientation().setX(0);
+                            fourth.getPose().getOrientation().setY(0);
+                            fourth.getPose().getOrientation().setZ(0.989142178521);
+                            fourth.getPose().getPosition().setX(-1.84649252892);
+                            fourth.getPose().getPosition().setY(-1.1724768877);
+                            fourth.getPose().getPosition().setZ(0);
+                            publisher.publish(fourth);
+                            break;
+
+                        case 4:
+                            PoseStamped fifth = publisher.newMessage();
+                            fifth.getHeader().setFrameId("map");
+                            fifth.getHeader().setStamp(Time.fromMillis(System.currentTimeMillis()));
+                            fifth.getPose().getOrientation().setW(0.998230198425);
+                            fifth.getPose().getOrientation().setX(0);
+                            fifth.getPose().getOrientation().setY(0);
+                            fifth.getPose().getOrientation().setZ(-0.05946823482);
+                            fifth.getPose().getPosition().setX(-9.52041339874);
+                            fifth.getPose().getPosition().setY(-0.241153270006);
+                            fifth.getPose().getPosition().setZ(0);
+                            publisher.publish(fifth);
+                            break;
+
                     }
 
                 }
